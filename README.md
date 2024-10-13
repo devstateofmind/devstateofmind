@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**devstateofmind/devstateofmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Hello! I'm Felipe, a passionate developer from Buenos Aires, Argentina. I have a love for Python, web development, and web design, and I'm always eager to innovate and learn new technologies.
 
-Here are some ideas to get you started:
+## 🌱 Current Learning Journey
+- **Django**: I'm currently diving into Django to enhance my web development skills. I'm excited about building dynamic web applications and mastering this powerful framework!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Languages**: Python, HTML, CSS, JavaScript
+- **Frameworks**: Django (beginner)
+- **Web Design**: Passionate about creating intuitive and user-friendly interfaces.
+
+## 🎓 Education
+- **University**: Universidad Nacional de Quilmes (UNQ), Buenos Aires, Argentina
+
+## 🚀 Let's Connect!
+I'm always looking to collaborate on interesting projects or learn from fellow developers. Feel free to reach out to me!
+
+- felipe.ortigoza64@gmail.com
+
+Thanks for visiting my profile! 😊
